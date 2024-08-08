@@ -142,11 +142,6 @@ Perform detailed specialty-level and age profile analyses.
 ![DrillDown](https://github.com/user-attachments/assets/8d43bf59-b01e-4f67-9ca2-924c4016989b)
 
 
-# Snapshot of Dashboard (Power BI Service)
-
-![dashboard_snapo](https://user-images.githubusercontent.com/102996550/174096257-11f1aae5-203d-44fc-bfca-25d37faf3237.jpg)
- 
-
 # Insights
 
 A single page report was created on Power BI Desktop.
@@ -202,4 +197,3 @@ Number of Inpatient on Average = 4 (10%)
     3. Number of Clinical Genetics cases = 29
     4. Number of Dermatology cases = 35
     5. Number of Pain Releif cases = 27 
-
